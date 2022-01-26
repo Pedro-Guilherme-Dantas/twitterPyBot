@@ -1,0 +1,4 @@
+pandas==1.4.0
+tweepy==4.4.0
+nasapy==0.2.7
+urllib3==1.25.8
